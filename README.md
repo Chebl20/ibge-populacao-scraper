@@ -6,5 +6,4 @@ Este projeto realiza scraping no site do IBGE para coletar a população de cida
 
 Dado um arquivo Excel com uma lista de cidades, o script acessa a página de cada cidade no site do IBGE, extrai o número mais atual de habitantes e gera um novo arquivo com os dados obtidos.
 
-## 📁 Estrutura do Projeto
 
